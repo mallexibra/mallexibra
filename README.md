@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript Advanced & Library**
 
-- 👨‍💻 A My Personal Website at [https://mallexibra.github.io/mywebsite-mallexibra/](https://mallexibra.github.io/mywebsite-mallexibra/)
+- 👨‍💻 A My Personal Website at [https://mallexibra.github.io/mallexibra-website/](https://mallexibra.github.io/mallexibra-website/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, jQuery**
 
