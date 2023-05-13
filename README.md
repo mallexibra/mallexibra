@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **JavaScript Advanced & Library**
 
-- 👨‍💻 A My Personal Website at [https://mallexibra.github.io/mallexibra-website/](https://mallexibra.github.io/mallexibra-website/)
+- 👨‍💻 A My Personal Website at [https://website-five-cyan-50.vercel.app/](https://website-five-cyan-50.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, jQuery**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **mallexibra@gmail.com**
 
