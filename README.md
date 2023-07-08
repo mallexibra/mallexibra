@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I think i'am passionate learners,Workhorse and competent.**
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> ⭐️ Connect with Me </h3>
 <p align="left">
 <a href="https://linkedin.com/in/mallexibra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mallexibra" height="30" width="40" /></a>
 <a href="https://instagram.com/mallexibra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mallexibra" height="30" width="40" /></a>
