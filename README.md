@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mallexibra/](https://www.linkedin.com/in/mallexibra/)
 
-- ⚡ Fun fact **I think i'am passionate learners,Workhorse and competent.**
+- ⚡ Fun fact **I think I am a passionate learner, Workhorse, and competent.**
 
 <h3> ⭐️ Connect with Me </h3>
 <p align="left">
