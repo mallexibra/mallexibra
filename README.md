@@ -23,8 +23,10 @@
 </p>
 
 <h3>🛠 Tech Stack</h3>
--  💻 &nbsp; Java | Dart <br/>
--  🌐 &nbsp; HTML | CSS | Javascript | SCSS | Boostrap | TailwindCSS | PHP | ReactJS <br/>
--  🛢 &nbsp; MySQL | Xampp <br/>
--  🔧 &nbsp; Visual Studio code | Sublime Text | Git <br/>
--  🖥 &nbsp; Figma | Inkscape | Kdenlive <br/>
+<ul>
+  <li>💻 &nbsp; Java | Dart</li>
+  <li>🌐 &nbsp; HTML | CSS | Javascript | SCSS | Boostrap | TailwindCSS | PHP | ReactJS</li>
+  <li>🛢 &nbsp; MySQL | Xampp</li>
+  <li>🔧 &nbsp; Visual Studio code | Sublime Text | Git</li>
+  <li>🖥 &nbsp; Figma | Inkscape | Kdenlive</li>
+</ul>
